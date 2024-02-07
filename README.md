@@ -33,11 +33,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
+- Loans having higher term tends to default more
+- Loans for the purpose of Small business tends to default more
+- Higher interest and higher amount tends to default more.
+- The verification status have no impact on defaults. Bank may have to make its verification processes more stringent
+- 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
