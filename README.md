@@ -37,7 +37,12 @@
 - Loans for the purpose of Small business tends to default more
 - Higher interest and higher amount tends to default more.
 - The verification status have no impact on defaults. Bank may have to make its verification processes more stringent
-- 
+- People having derogatory remarks and bankruptcies also tend to pay back loan equally.
+- People with 10+ years of experience tends to default more but at the same time are most contributors to loan applications.
+- People having credit utilization of more than 20% tend to default more
+- People having more accounts tends to pay back loan fully.
+- People having more inquiries in last 6 months tend to pay back loan fully.
+- People in Washington and Wyoming tend to pay back loan in higher percentages.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
