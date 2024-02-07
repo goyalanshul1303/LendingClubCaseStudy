@@ -56,7 +56,7 @@
 Give credit here.
 - This project was inspired by EDA methodologies learned and explained by upGrad
 - References
-  -- https://numpy.org/doc/stable/index.html
+  - https://numpy.org/doc/stable/index.html
 - This project was based on Upgrad Tutorial on Exploratory Data Analysis.
 
 
