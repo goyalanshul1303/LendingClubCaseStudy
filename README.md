@@ -57,11 +57,13 @@ Give credit here.
 - This project was inspired by EDA methodologies learned and explained by upGrad
 - References
   - https://numpy.org/doc/stable/index.html
+  - https://pandas.pydata.org/docs/index.html
+  - https://seaborn.pydata.org/index.html
 - This project was based on Upgrad Tutorial on Exploratory Data Analysis.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@goyalanshul1303] [@tikluganguly]- feel free to contact us!
 
 
 <!-- Optional -->
