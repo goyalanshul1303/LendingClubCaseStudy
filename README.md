@@ -11,10 +11,6 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
 
 > This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
 > Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
@@ -28,9 +24,18 @@
 
 > The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
-- The data given below contains information about past loan applicants and whether they ‘defaulted’ or not along with other parameters mentioned as a part of Data Dictionary.
+> The data given contains information about past loan applicants and whether they ‘defaulted’ or not along with other parameters mentioned as a part of Data Dictionary.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
+## Technologies Used
+- Python 3
+- Pandas
+- Numpy
+- Seaplot
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Conclusions
 - Loans having higher term tends to default more
@@ -42,22 +47,17 @@
 - People having credit utilization of more than 20% tend to default more
 - People having more accounts tends to pay back loan fully.
 - People having more inquiries in last 6 months tend to pay back loan fully.
-- People in Washington and Wyoming tend to pay back loan in higher percentages.
+- People in Distric of Columbia and Wyoming tend to pay back loan in higher percentages.
+- People in Nevada, Alaska and South Dakota tends to default more.
+- People having any kind of home ownership tend to default equally.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by EDA methodologies learned and explained by upGrad
+- References
+  -- https://numpy.org/doc/stable/index.html
+- This project was based on Upgrad Tutorial on Exploratory Data Analysis.
 
 
 ## Contact
